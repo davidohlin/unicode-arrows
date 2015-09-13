@@ -15,10 +15,6 @@ $ npm install --save unicode-arrows
 ```js
 var unicodeArrows = require('unicode-arrows');
 
-// Return all arrows facing north.
-console.log(unicodeArrows.n)
-//=> [ '↑', '↟', '↥', '↾', …]
-
 
 
 ## License
