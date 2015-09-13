@@ -1,0 +1,36 @@
+{
+  "name": "unicode-arrows",
+  "version": "0.0.0",
+  "description": "Collection of unicode arrows sorted by direction.",
+  "license": "MIT",
+  "repository": "davidohlin/unicode-arrows",
+  "author": {
+    "name": "David Öhlin",
+    "email": "hello@davidohlin.se",
+    "url": "davidohlin.se"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "main": "unicode-arrows.json",
+  "files": [
+    "unicode-arrows.json"
+  ],
+  "keywords": [
+    "unicode",
+    "arrows"
+  ],
+  "devDependencies": {
+    "ava": "^0.2.0",
+    "xo": "^0.7.1"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  }
+}
