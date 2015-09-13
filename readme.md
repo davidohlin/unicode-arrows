@@ -16,17 +16,6 @@ $ npm install --save unicode-arrows
 var unicodeArrows = require('unicode-arrows');
 ```
 
-All arrows:
-```js
-console.log(unicodeArrows)
-//=> n: [ '↑', '↟', …], ne: ['↗', '⇗', …], …
-```
-
-Or specify a direction:
-```js
-console.log(unicodeArrows.sw)
-//=> sw: [ '↘', '⇘', …]
-
 
 ## License
 
