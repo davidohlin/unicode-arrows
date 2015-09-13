@@ -1,6 +1,6 @@
 {
   "name": "unicode-arrows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of unicode arrows sorted by direction.",
   "license": "MIT",
   "repository": "davidohlin/unicode-arrows",
